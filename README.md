@@ -1,44 +1,33 @@
 Hi everyone!!!
 
-I am a Software Engineer with a passion for building reliable, high-quality software solutions. I specialize in **AR/VR Quality Assurance** and have hands-on experience in **Data Engineering**, bringing together expertise in testing, analytics, and development.
----
+# Hi, I'm Niharika 👋  
 
-## 🚀 Skills & Technologies
+🌟 BCA Student | Aspiring MERN Stack Developer | Ex-HCL (Meta Project)  
 
-**Programming:**  
-Python · JavaScript · HTML/CSS · SQL (MySQL)
-
-**Testing & QA:**  
-Manual Testing · Functional Testing · Regression Testing · Bug Reporting/Tracking
-
-**AR/VR Experience:**  
-- Testing VR games and AR devices (Ray-Ban Meta, Oculus)  
-- Instagram Avatars  
-- Tools: ADB, TestFlight, Oculus Bug Maker
-
-**Data Engineering:**  
-Hadoop (HDFS, YARN, MapReduce) · Apache Hive · HBase · NumPy
-
-**Additional Tools:**  
-Tableau · MongoDB · GitHub · Informatica
+- 🔭 Currently working on: Interactive front-end projects  
+- 🌱 Learning: MERN Stack (MongoDB, Express, React, Node.js)  
+- 💡 Interests: Web Development, UI/UX, Open Source  
+- 📫 Connect with me: [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:youremail@gmail.com)  
 
 ---
 
-## 🌟 What Makes Me Unique
-
-- **Industry Exposure:** Tested real-world AR/VR products—not just academic projects.
-- **Growth & Adaptability:** Progressed from Trainee to Software Engineer at HCL Technologies.
-- **Hybrid Skillset:** Combine QA expertise with Data Engineering fundamentals—a rare and valuable mix.
-- **Early Career, Strong Hands-On Experience:** Quickly gained practical skills in testing and technical training.
+## 🚀 Projects
+- 🌗 [Day-Night Toggle Button](https://github.com/niharikavermaa01/Day-night-button) → A simple theme switcher using HTML, CSS & JS  
+- 💻 Portfolio Website (Coming Soon)  
 
 ---
 
-## 🔗 Find Me Online
+## ⚡ Skills
+![Badge Test](https://img.shields.io/badge/Badge-Test-blue)
+---![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 
-- [LinkedIn](https://linkedin.com/in/niharika-verma)
-- [GitHub](https://github.com/niharikavermaa01)
-<!-- Add portfolio link here if you build one! -->
-
+## 📊 GitHub Stats
+![Niharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=niharikavermaa01&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niharikavermaa01&layout=compact)
 ✨ Fun fact: Coffee + Code = Happiness ☕💻# 
 ---
 
