@@ -9,7 +9,6 @@ Hi everyone!!!
 - 💡 Interests: Web Development, UI/UX, Open Source  
 - 📫 Connect with me: [LinkedIn](https://linkedin.com/in/your-profile) | [Email](mailto:youremail@gmail.com)  
 
----
 
 ## 🚀 Projects
 - 🌗 [Day-Night Toggle Button](https://github.com/niharikavermaa01/Day-night-button) → A simple theme switcher using HTML, CSS & JS  
