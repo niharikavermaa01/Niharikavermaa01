@@ -13,7 +13,9 @@ Hi everyone!!!
 ## 🚀 Projects
 - 🌗 [Day-Night Toggle Button](https://github.com/niharikavermaa01/Day-night-button) → A simple theme switcher using HTML, CSS & JS
 - Created the speed test tool  
-- 💻 Portfolio Website (Coming Soon)  
+- 💻 Portfolio Website (is out now)
+- Check google drive clone
+- Chatgpt(coming soon)
 
 ---
 
